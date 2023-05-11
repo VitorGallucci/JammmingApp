@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JammingApp/static/css/main.249fa7df.css",
-    "main.js": "/JammingApp/static/js/main.1aab509c.js",
-    "static/js/787.44b3b8b5.chunk.js": "/JammingApp/static/js/787.44b3b8b5.chunk.js",
-    "static/media/pxfuel.jpg": "/JammingApp/static/media/pxfuel.6359cb969af8577ace37.jpg",
-    "index.html": "/JammingApp/index.html",
-    "main.249fa7df.css.map": "/JammingApp/static/css/main.249fa7df.css.map",
-    "main.1aab509c.js.map": "/JammingApp/static/js/main.1aab509c.js.map",
-    "787.44b3b8b5.chunk.js.map": "/JammingApp/static/js/787.44b3b8b5.chunk.js.map"
+    "main.css": "/JammmingApp/static/css/main.19e65956.css",
+    "main.js": "/JammmingApp/static/js/main.5383abcb.js",
+    "static/js/787.44b3b8b5.chunk.js": "/JammmingApp/static/js/787.44b3b8b5.chunk.js",
+    "static/media/pxfuel.jpg": "/JammmingApp/static/media/pxfuel.6359cb969af8577ace37.jpg",
+    "index.html": "/JammmingApp/index.html",
+    "main.19e65956.css.map": "/JammmingApp/static/css/main.19e65956.css.map",
+    "main.5383abcb.js.map": "/JammmingApp/static/js/main.5383abcb.js.map",
+    "787.44b3b8b5.chunk.js.map": "/JammmingApp/static/js/787.44b3b8b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.249fa7df.css",
-    "static/js/main.1aab509c.js"
+    "static/css/main.19e65956.css",
+    "static/js/main.5383abcb.js"
   ]
 }
